@@ -3,8 +3,6 @@
 
 Inclusus is an inclusive and accessible job discovery platform that connects individuals from diverse backgrounds and marginalized communities to meaningful employment opportunities. It prioritizes accessibility, ease of use, and job readiness support.
 
-![Inclusus Screenshot](./screenshot.png)
-
 ---
 
 ## 🌟 Features
@@ -41,10 +39,6 @@ Inclusus/
 ├── style.css, job-details.css, etc.
 ├── attachments.zip # Supporting documents or assets
 ├── README.md # This file
-
-yaml
-Copy
-Edit
 
 ---
 
